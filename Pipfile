@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+jupyter = "*"
+
+[packages]
+tensorflow = "*"
+sklearn = "*"
+matplotlib = "*"
+scipy = "*"
+pandas = "*"
+nltk = "*"
+scikit-learn = "*"
+cython = "*"
+gensim = "*"
+keras = "*"
+"html5lib" = "*"
+"beautifulsoup4" = "*"
+lxml = "*"
+
+[requires]
+python_version = "3.6"

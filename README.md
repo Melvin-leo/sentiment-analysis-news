@@ -1,0 +1,1 @@
+This repository is the implementation of keras for general sentiment analysis on news.
