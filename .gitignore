@@ -1,0 +1,9 @@
+# Pycharm config
+/.idea
+.idea
+
+# Local virtual environments
+.venv
+
+# Log
+/log
