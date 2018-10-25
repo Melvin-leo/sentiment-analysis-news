@@ -20,6 +20,7 @@ keras = "*"
 "html5lib" = "*"
 "beautifulsoup4" = "*"
 lxml = "*"
+"h5py" = "*"
 
 [requires]
 python_version = "3.6"
